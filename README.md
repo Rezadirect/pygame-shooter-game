@@ -5,6 +5,7 @@ my first game....
 ```
 pip install -r req.txt
 ```
+______________________________________
 ```
 py main.py
 ```
