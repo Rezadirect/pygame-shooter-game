@@ -1,7 +1,4 @@
 # pygame-shooter-game
-my first game....
-
-
 ```
 pip install -r req.txt
 ```
